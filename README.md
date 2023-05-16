@@ -25,5 +25,5 @@ git commit -m "css"
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
 git remote add https://github.com/Ilyyaa/VVP_Lab5
-git pull
+git push
 ```
